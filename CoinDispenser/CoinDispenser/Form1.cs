@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,7 +25,7 @@ namespace CoinDispenser
             AmountPurchased = Convert.ToDouble(PurchasedTextbox.Text);
             AmountTendered = Convert.ToDouble(TenderedTextbox.Text);
             ChangeAmount = AmountTendered - AmountPurchased;
-            ChangeLabel.Text = ChangeAmount.ToString();
+            ChangeLabel.Text = ChangeAmount.ToString("F2", CultureInfo.CurrentCulture);
             TenPesoLabel.Text = ((int) (ChangeAmount / 10)).ToString();
             FivePesoLabel.Text = ((int) (ChangeAmount % 10 / 5)).ToString();
             OnePesoLabel.Text = ((int) (ChangeAmount % 10 % 5 / 1)).ToString();
