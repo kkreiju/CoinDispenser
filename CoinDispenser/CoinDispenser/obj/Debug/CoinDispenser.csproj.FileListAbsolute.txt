@@ -1,0 +1,11 @@
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\bin\Debug\CoinDispenser.exe.config
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\bin\Debug\CoinDispenser.exe
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\bin\Debug\CoinDispenser.pdb
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.csproj.AssemblyReference.cache
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.csproj.SuggestedBindingRedirects.cache
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.Form1.resources
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.Properties.Resources.resources
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.csproj.GenerateResource.cache
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.csproj.CoreCompileInputs.cache
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.exe
+C:\Users\79286-23220726\Desktop\CoinDispenser\CoinDispenser\obj\Debug\CoinDispenser.pdb
